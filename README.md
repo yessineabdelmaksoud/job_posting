@@ -33,9 +33,9 @@ To achieve this, the project integrates **multiple data sources**, implements **
 
 This project uses publicly available datasets from Kaggle:  
 
-1. **[Dataset 1: Job Postings Data]([https://www.kaggle.com/datasets/dataset-link-1](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset))**  
+1. https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
 
-2. **[Dataset 2: Salary Trends Data]([https://www.kaggle.com/datasets/dataset-link-2](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings))**  
+2. https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 
 ---
 

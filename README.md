@@ -48,4 +48,7 @@ This project uses publicly available datasets from Kaggle:
 - **Azure Data Factory**: Scalable ETL  
 - **Power BI**: Data visualization  
 - **SQL**: Star schema modeling  
-- **MOLAP**: Data storage for analytics  
+- **MOLAP**: Data storage for analytics
+
+![Aperçu](https://github.com/yessineabdelmaksoud/job_posting/blob/main/cap/Screenshot%202025-04-21%20222736.png?raw=true)
+
